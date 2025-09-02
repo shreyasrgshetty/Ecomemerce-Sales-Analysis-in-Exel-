@@ -67,4 +67,4 @@ The dashboard is designed for:
 * Tracking **YoY growth in sales and profit**.
 * Supporting **business strategy & decision-making**.
 
-Dashboard snapshot :
+Dashboard snapshot :nhttps://github.com/shreyasrgshetty/Ecomemerce-Sales-Analysis-in-Exel-/blob/main/Ecommerce%20sales%20Analysis.png
